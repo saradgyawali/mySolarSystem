@@ -1,0 +1,46 @@
+body {
+	background-image:url("sky.jpg");
+	background-position:center;
+}
+#sun {
+	height:160px;
+	width:160px;
+}
+#moon {
+	height:30px;
+	width:30px;
+}
+#mercury {
+	height:60px;
+	width:60px;
+}
+#venus {
+	height:70px;
+	width:70px;
+}
+#earth {
+	height:100px;
+	width:100px;
+}
+#mars {
+	height:50px;
+	width:50px;
+}
+#jupiter {
+	height:110px;
+	width:110px;
+	border-radius:60px;
+}
+#saturn {
+	height:110px;
+	width:110px;
+}
+#uranus {
+	height:50px;
+	width:50px;
+	border-radius:px;
+}
+#neptune {
+	height:40px;
+	width:40px;
+}
