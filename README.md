@@ -1,0 +1,1 @@
+I have always had keen interest in Astronomy. And I am always fascinated with our own Solar System and how we are aligned within it. My main goal of this Project is to show all the eight planets orbiting the Sun in its own axis. 
