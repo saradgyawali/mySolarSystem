@@ -3,44 +3,65 @@ body {
 	background-position:center;
 }
 #sun {
-	height:160px;
-	width:160px;
+	height:250px;
+	width:250px;
+	position:relative;
+	left:-15px;
+	top:100px;
 }
 #moon {
-	height:30px;
-	width:30px;
+	height:20px;
+	width:20px;
+	position: relative;
+	top:-40px;
 }
 #mercury {
-	height:60px;
-	width:60px;
+	height:30px;
+	width:30px;
+	position: relative;
+	left:10px;
 }
 #venus {
-	height:70px;
-	width:70px;
+	height:35px;
+	width:35px;
+	position: relative;
+	left:20px;
 }
 #earth {
-	height:100px;
-	width:100px;
+	height:50px;
+	width:50px;
+	position: relative;
+	left:30px;
 }
 #mars {
-	height:50px;
-	width:50px;
+	height:30px;
+	width:30px;
+	position: relative;
+	left:35px;
 }
 #jupiter {
-	height:110px;
-	width:110px;
+	height:120px;
+	width:120px;
 	border-radius:60px;
-}
+	position: relative;
+	left:40px;
+	}
 #saturn {
-	height:110px;
-	width:110px;
+	height:250px;
+	width:250px;
+	position: relative;
+	left:55px;
+	top:100px;
 }
 #uranus {
-	height:50px;
-	width:50px;
-	border-radius:px;
+	height:80px;
+	width:80px;
+	position: relative;
+	left:50px;
 }
 #neptune {
-	height:40px;
-	width:40px;
+	height:80px;
+	width:80px;
+	position: relative;
+	left: 50px;
 }
