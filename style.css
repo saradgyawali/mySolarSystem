@@ -65,3 +65,9 @@ body {
 	position: relative;
 	left: 50px;
 }
+#first {
+	height:100px;
+	width:200px;
+	border-color:;
+	border-radius:40px;
+}
