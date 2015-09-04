@@ -1,3 +1,8 @@
+h1 {
+	color:red;
+	text-align: center
+}	
+
 body {
 	background-image:url("sky.jpg");
 	background-position:center;
@@ -67,7 +72,8 @@ body {
 }
 #first {
 	height:100px;
-	width:200px;
-	border-color:;
-	border-radius:40px;
+	width:300px;
+	background-color: transparent;
+	border:1px solid white;
+	border-radius:100px 100px 100px 100px;
 }
